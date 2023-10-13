@@ -1,0 +1,3 @@
+[submodule "recipes"]
+path = recipes
+https://github.com/k-ish-san/Recipes.git
